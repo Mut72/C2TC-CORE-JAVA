@@ -1,6 +1,5 @@
-package tns.org.program;
 
-public class decisionoperators1 {
+public class Decisionoperator1 {
 
 	public static void main(String[] args) {
 		int x=5;

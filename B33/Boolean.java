@@ -1,9 +1,8 @@
-package tns.org.program;
 
 public class Boolean {
 
 	public static void main(String[] args) {
-		
+
 		 int num1=10;  
 	        int num2=20;  
 	          
@@ -18,6 +17,8 @@ public class Boolean {
 	{  
 	    System.out.println(b2);  
 	}  
+	
+
 	}
 
 }

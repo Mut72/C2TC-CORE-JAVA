@@ -1,4 +1,3 @@
-package tns.org.program;
 
 public class Float {
 

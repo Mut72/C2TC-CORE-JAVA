@@ -1,4 +1,3 @@
-package tns.org.program;
 
 public class Decisionoperators2 {
 
@@ -13,7 +12,6 @@ public class Decisionoperators2 {
 		{
 			System.out.println("false");
 		}
-		 
 
 	}
 
